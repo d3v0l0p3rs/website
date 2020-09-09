@@ -89,7 +89,12 @@
         text-align: left;
     }
     .mainmenu-area .logo {
-        margin-left: 15px;
+        margin-left: -5px;
+        margin-top: 8px;
+    }
+    .mainmenu-area .logo-left img{
+        margin-left: 9px;
+        margin-top: -5px;
     }
 }
 
