@@ -138,7 +138,7 @@ input:-webkit-autofill:focus {
   }
 }
 .section-padding {
-  padding: 30px 0;
+  padding: 83px 0px;
 }
 
 .social-menu {
@@ -752,7 +752,7 @@ input:-webkit-autofill:focus {
 
 .single-blog button {
   float: right;
-  background-color: #138fc2;
+  background-color: #006291;
 }
 
 /***
@@ -760,7 +760,7 @@ input:-webkit-autofill:focus {
 ***/
 
 .footer-area {
-  padding-top: 30px;
+  padding: 83px 0px;
   z-index: 1;
 }
 
