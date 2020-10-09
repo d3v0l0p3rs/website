@@ -746,11 +746,12 @@ input:-webkit-autofill:focus {
 }
 
 .single-blog .blog-content {
-  padding: 40px 20px;
+  padding: 20px 20px 55px 20px;
   background-color: #ffffff;
 }
 
 .single-blog button {
+  margin-bottom: 20px;
   float: right;
   background-color: #006291;
 }
